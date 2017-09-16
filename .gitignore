@@ -24,8 +24,3 @@ hs_err_pid*
 # IntelliJ IDEA
 .gradle/
 .idea/
-build.gradle
-gradle/
-gradlew
-gradlew.bat
-src/
