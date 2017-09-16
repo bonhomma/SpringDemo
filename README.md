@@ -1,2 +1,2 @@
 # SpringDemo
-modify
+Actuator security off
